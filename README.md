@@ -4,7 +4,8 @@
 
 
 
-<h3 align="center"><b>Hi there,Thankyou for visiting.</b></h3>
+
+<h3 align="center"><b>Hi there,👋</b></h3>
 
 
 
@@ -24,7 +25,7 @@ I am passionate about websites and front-end coding. I like to play with codes a
 
 
 #### Back End
-![FireBase](https://img.shields.io/badge/-Flutter-4f0000?&logo=Flutter&logoColor=0bf)
+![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![FireBase](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
  
@@ -41,9 +42,5 @@ I am passionate about websites and front-end coding. I like to play with codes a
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuVairagi1&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
 
-
-
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ManuVairagi1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuVairagi1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 
 
