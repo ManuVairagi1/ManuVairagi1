@@ -1,5 +1,7 @@
 
 
+
+
 <h3 align="center"><b>Hi there,👋</b></h3>
 
 
@@ -27,13 +29,12 @@ I am passionate about websites and front-end coding. I like to play with codes a
 
 
 #### Others:
-[![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![C](https://img.shields.io/badge/-C-808080?&logo=C)](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-9c9c9c?&logo=c%2b%2b&logoColor=00599C)
 
 
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ManuVairagi1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuVairagi1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-
 
 
