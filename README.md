@@ -1,4 +1,5 @@
 
+
 <h3 align="center"><b>Hi there,👋</b></h3>
 
 
@@ -10,20 +11,15 @@ I am passionate about websites and front-end coding. I like to play with codes a
 
 ### MY TECH STACK:
 #### Front End
-[![Html](https://img.shields.io/badge/-Python-033800?&logo=python&logoColor=0bf)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![CSS](https://img.shields.io/badge/-PyTorch-055e00?&logo=PyTorch&logoColor=f00)
-![JavaScript](https://img.shields.io/badge/-TensorFlow-067300?&logo=TensorFlow&logoColor=f77c00)
-
-![GitHub](https://img.shields.io/badge/-NumPy-0d0138?&logo=NumPy&logoColor=ff6791)
-![VS code](https://img.shields.io/badge/-Pandas-130252?&logo=Pandas&logoColor=0ff)
-![React JS](https://img.shields.io/badge/-Matplotlib-170263?&logo=Matplotlib&logoColor=336791)
-![BootStrap](https://img.shields.io/badge/-Seaborn-1b0275?&logo=Seaborn&logoColor=336791)
-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Back End
 ![FireBase](https://img.shields.io/badge/-Flutter-4f0000?&logo=Flutter&logoColor=0bf)
 
-#### Well I have just started
+ 
 
 
 #### Others:
@@ -34,5 +30,6 @@ I am passionate about websites and front-end coding. I like to play with codes a
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ManuVairagi1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuVairagi1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+
 
 
