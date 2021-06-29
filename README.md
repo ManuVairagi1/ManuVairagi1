@@ -15,10 +15,13 @@ I am passionate about websites and front-end coding. I like to play with codes a
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngio.com%2Fimages%2Fpng-a1348197.html&psig=AOvVaw30lXGpDb3rn9LrimA1omZZ&ust=1625053359578000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKD3rdThvPECFQAAAAAdAAAAABAD)
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### Back End
 ![FireBase](https://img.shields.io/badge/-Flutter-4f0000?&logo=Flutter&logoColor=0bf)
+![FireBase](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
  
 
