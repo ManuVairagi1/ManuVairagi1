@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center"><b>Hi there, fellow Hustlers 👋</b></h3>
+<h3 align="center"><b>Hello there, fellow Hustlers 👋</b></h3>
 
 
 
